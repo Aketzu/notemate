@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "AppKeyJSReady": 0,
+        "AppKeyNote": 1,
+        "AppKeyResponseFailure": 2
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Aketzu",
+    "enableMultiJS": true,
+    "longName": "notemate",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "notemate",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "452f73f4-4976-4be8-ba7f-9e16fe9304ae",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
